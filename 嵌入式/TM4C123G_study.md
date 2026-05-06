@@ -1,7 +1,8 @@
 ---
 title: TM4C123G_study
 date: 2025-01-05 01:27:00
-tags: 嵌入式ti
+tags:
+  - 嵌入式
 hidden: false
 top: false
 layout: post

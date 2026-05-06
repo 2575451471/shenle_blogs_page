@@ -1,5 +1,7 @@
 ---
 publish: true
+tags:
+  - 代码小记
 ---
 ﻿# 引入
 在windows系统下使用vscode+vim编写代码时会遇到一个令人略有不爽的小麻烦。  

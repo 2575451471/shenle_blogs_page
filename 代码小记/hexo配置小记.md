@@ -1,5 +1,7 @@
 ---
 publish: true
+tags:
+  - 代码小记
 ---
 ﻿---
 title: "hexo配置小记"

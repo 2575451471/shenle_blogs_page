@@ -1,5 +1,7 @@
 ---
 publish: true
+tags:
+  - 代码小记
 ---
 ﻿
 突然想给vsc背景加张图片  

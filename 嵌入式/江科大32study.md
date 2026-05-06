@@ -1,5 +1,7 @@
 ---
 publish: true
+tags:
+  - 嵌入式
 ---
 ﻿
 

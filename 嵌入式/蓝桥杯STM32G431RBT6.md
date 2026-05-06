@@ -1,5 +1,7 @@
 ---
 publish: true
+tags:
+  - 嵌入式
 ---
 ﻿---
 title: "蓝桥杯STM32G431RBT6"

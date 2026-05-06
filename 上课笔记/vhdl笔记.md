@@ -1,5 +1,7 @@
 ---
 publish: true
+tags:
+  - 上课笔记
 ---
 ﻿# 考试真题
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - 嵌入式
+publish: true
+---
 ﻿# Hello World
 # 江科大自化协（AT89C51）
 

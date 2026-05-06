@@ -4,3 +4,4 @@ views:
     order:
       - file.basename
       - publish
+      - tags
