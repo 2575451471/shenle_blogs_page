@@ -1,7 +1,8 @@
----
+﻿---
 tags:
   - 嵌入式
 publish: true
+date: 2024-12-26 13:23:00
 ---
 ﻿# Hello World
 # 江科大自化协（AT89C51）

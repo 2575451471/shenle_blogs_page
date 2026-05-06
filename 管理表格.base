@@ -3,8 +3,10 @@ views:
     name: 表格
     filters:
       and:
-        - file.folder == "page/本科毕设论文相关"
+        - file.folder != "page/images"
+        - file.folder != "日志"
     order:
       - file.basename
       - tags
       - publish
+      - date
