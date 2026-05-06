@@ -1,3 +1,7 @@
+---
+tags:
+  - 本科毕设论文相关
+---
 ﻿# 0. 学习途径
 大致基于
 [材机战士的mujoco教程-github项目](https://github.com/Albusgive/mujoco_learning)

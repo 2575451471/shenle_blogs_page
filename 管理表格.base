@@ -1,7 +1,10 @@
 views:
   - type: table
     name: 表格
+    filters:
+      and:
+        - file.folder == "page/本科毕设论文相关"
     order:
       - file.basename
-      - publish
       - tags
+      - publish

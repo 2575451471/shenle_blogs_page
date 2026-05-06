@@ -357,6 +357,7 @@ bool IntMasterEnable(void)
 参数:
 （1）ui32Port ：GPIO口的基地址
 （2）ui32IntFlags： 被禁止的中断源中断屏蔽位(指示哪些引脚中断被开启，是以下参数的逻辑或)
+```
 		#define GPIO_INT_PIN_0          0x00000001
 		#define GPIO_INT_PIN_1          0x00000002
 		#define GPIO_INT_PIN_2          0x00000004
@@ -365,6 +366,7 @@ bool IntMasterEnable(void)
 		#define GPIO_INT_PIN_5          0x00000020
 		#define GPIO_INT_PIN_6          0x00000040
 		#define GPIO_INT_PIN_7          0x00000080
+```
 1
 2
 3
