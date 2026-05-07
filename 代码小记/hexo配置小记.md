@@ -1,15 +1,17 @@
-﻿---
+---
 publish: true
 tags:
   - 代码小记
-date: 2025-02-15 06:45:00
+date: 2025-02-15 05:56:00
 ---
 ﻿---
+```
 title: "hexo配置小记"
 date: "2025-02-15 05:56:44"
 tags: "小记"
 hidden: false
 top: false
+```
 layout: post
 ---
 <meta name="referrer" content="no-referrer"/>
